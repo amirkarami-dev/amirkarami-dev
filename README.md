@@ -1,400 +1,148 @@
-# <div align="center">
-# 
-# ![Banner](https://img.shields.io/badge/Full--Stack%20Developer-TypeScript%20%7C%20C%23%20%7C%20React-blue?style=for-the-badge)
-# 
-# # 🚀 Amir Karami
-# 
-# **Enterprise Solutions Architect** | **Full-Stack Engineer** | **System Designer**
-# 
-# [![GitHub followers](https://img.shields.io/github/followers/amirkarami-dev?style=social)](https://github.com/amirkarami-dev)
-# [![GitHub Stars](https://img.shields.io/github/stars/amirkarami-dev?style=social)](https://github.com/amirkarami-dev)
-# 
-# </div>
-# 
-# ---
-# 
-# <div align="center">
-#   <a href="https://github.com/amirkarami-dev">
-#     <img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github" />
-#   </a>
-#   <a href="mailto:contact@example.com">
-#     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" />
-#   </a>
-#   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-# </div>
-# 
-# ---
-# 
-# ## 💼 Professional Overview
-# 
-# <table>
-# <tr>
-# <td width="50%">
-# 
-# **🎯 Specialization**
-# - Enterprise Architecture
-# - Microservices Design
-# - Full-Stack Development
-# - Database Optimization
-# - System Scalability
-# 
-# **📊 Experience**
-# - 30+ Professional Projects
-# - Multiple Tech Stacks
-# - Enterprise Solutions
-# - Team Leadership
-# 
-# </td>
-# <td width="50%">
-# 
-# **💻 Tech Focus**
-# - Backend: C# | .NET | ASP.NET
-# - Frontend: TypeScript | React | Vue
-# - Databases: PostgreSQL | SQL Server
-# - Tools: Vite | Docker | Git
-# 
-# **🌐 Domain Expertise**
-# - Energy Management Systems
-# - Financial Platforms
-# - E-Commerce Solutions
-# - Admin Dashboards
-# - Municipal Services
-# 
-# </td>
-# </tr>
-# </table>
-# 
-# ---
-# 
-# ## 🛠️ Tech Stack Showcase
-# 
-# <div align="center">
-# 
-# ### Backend Technologies
-# ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-# ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-# ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-# ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-# 
-# ### Frontend Technologies
-# ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-# ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-# ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-# ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-# ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-# 
-# ### Database & Tools
-# ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-# ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-# ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-# ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-# 
-# </div>
-# 
-# ---
-# 
-# ## 🌟 Featured Projects
-# 
-# <div align="center">
-# 
-# ### Enterprise Applications
-# 
-# </div>
-# 
-# <table>
-# <tr>
-# <td align="center" width="25%">
-# <div>
-# <h4>🏢 CEO Portal</h4>
-# <p><strong>TypeScript</strong></p>
-# <img src="https://img.shields.io/badge/Executive-Dashboard-blue?style=flat-square" />
-# <p>Executive management system with real-time analytics</p>
-# </div>
-# </td>
-# <td align="center" width="25%">
-# <div>
-# <h4>⚡ Harness Develop</h4>
-# <p><strong>TypeScript</strong></p>
-# <img src="https://img.shields.io/badge/Business-Intelligence-informational?style=flat-square" />
-# <p>Business intelligence platform for data insights</p>
-# </div>
-# </td>
-# <td align="center" width="25%">
-# <div>
-# <h4>🔋 Vahedgas Portal</h4>
-# <p><strong>TypeScript</strong></p>
-# <img src="https://img.shields.io/badge/Energy-Management-success?style=flat-square" />
-# <p>Energy distribution management system</p>
-# </div>
-# </td>
-# <td align="center" width="25%">
-# <div>
-# <h4>🌐 Japra Website</h4>
-# <p><strong>TypeScript</strong></p>
-# <img src="https://img.shields.io/badge/Corporate-Web-critical?style=flat-square" />
-# <p>Modern corporate web presence</p>
-# </div>
-# </td>
-# </tr>
-# </table>
-# 
-# <div align="center">
-# 
-# ### Backend Services
-# 
-# </div>
-# 
-# <table>
-# <tr>
-# <td align="center" width="25%">
-# <div>
-# <h4>⚙️ TAC API</h4>
-# <p><strong>C# .NET</strong></p>
-# <img src="https://img.shields.io/badge/Core-Engine-purple?style=flat-square" />
-# <p>Business logic & API services</p>
-# </div>
-# </td>
-# <td align="center" width="25%">
-# <div>
-# <h4>🔌 Vahedgas API</h4>
-# <p><strong>C#</strong></p>
-# <img src="https://img.shields.io/badge/Microservice-API-9cf?style=flat-square" />
-# <p>Energy distribution backend</p>
-# </div>
-# </td>
-# <td align="center" width="25%">
-# <div>
-# <h4>💡 Vahedbargh API</h4>
-# <p><strong>C#</strong></p>
-# <img src="https://img.shields.io/badge/Electricity-Service-yellow?style=flat-square" />
-# <p>Electricity management solution</p>
-# </div>
-# </td>
-# <td align="center" width="25%">
-# <div>
-# <h4>🏛️ Alborz Service</h4>
-# <p><strong>C#</strong></p>
-# <img src="https://img.shields.io/badge/Municipal-Service-orange?style=flat-square" />
-# <p>Municipality service platform</p>
-# </div>
-# </td>
-# </tr>
-# </table>
-# 
-# <div align="center">
-# 
-# ### Frontend Solutions
-# 
-# </div>
-# 
-# <table>
-# <tr>
-# <td align="center" width="25%">
-# <div>
-# <h4>🎨 Vahedgas UI</h4>
-# <p><strong>JavaScript</strong></p>
-# <img src="https://img.shields.io/badge/Interactive-UI-blueviolet?style=flat-square" />
-# <p>Dynamic user interface</p>
-# </div>
-# </td>
-# <td align="center" width="25%">
-# <div>
-# <h4>📱 Vahedbargh Vite</h4>
-# <p><strong>JavaScript</strong></p>
-# <img src="https://img.shields.io/badge/Modern-Bundler-FF6B6B?style=flat-square" />
-# <p>Vite-powered interface</p>
-# </div>
-# </td>
-# <td align="center" width="25%">
-# <div>
-# <h4>🛍️ Metal UAE Web</h4>
-# <p><strong>TypeScript</strong></p>
-# <img src="https://img.shields.io/badge/E--Commerce-Platform-4ECDC4?style=flat-square" />
-# <p>E-commerce solution</p>
-# </div>
-# </td>
-# <td align="center" width="25%">
-# <div>
-# <h4>🌍 Kurdvahedgas</h4>
-# <p><strong>TypeScript</strong></p>
-# <img src="https://img.shields.io/badge/Regional-Portal-26A65B?style=flat-square" />
-# <p>Regional portal platform</p>
-# </div>
-# </td>
-# </tr>
-# </table>
-# 
-# ---
-# 
-# ## 📊 Skills Matrix
-# 
-# <div align="center">
-# 
-# | Category | Proficiency | Technologies |
-# |----------|-------------|--------------|
-# | **Backend** | ⭐⭐⭐⭐⭐ | C#, .NET Core, ASP.NET, Entity Framework |
-# | **Frontend** | ⭐⭐⭐⭐⭐ | TypeScript, React, Vue.js, Vite |
-# | **Databases** | ⭐⭐⭐⭐⭐ | PostgreSQL, SQL Server, Query Optimization |
-# | **Architecture** | ⭐⭐⭐⭐⭐ | Microservices, REST APIs, Clean Code |
-# | **DevOps** | ⭐⭐⭐⭐☆ | Docker, CI/CD, GitHub Actions |
-# | **Leadership** | ⭐⭐⭐⭐☆ | Team Management, Code Review, Mentoring |
-# 
-# </div>
-# 
-# ---
-# 
-# ## 🎯 Key Competencies
-# 
-# <div align="center">
-# 
-# [![Enterprise Architecture](https://img.shields.io/badge/-Enterprise%20Architecture-4CAF50?style=for-the-badge)](/)
-# [![System Design](https://img.shields.io/badge/-System%20Design-2196F3?style=for-the-badge)](/)
-# [![API Development](https://img.shields.io/badge/-API%20Development-FF9800?style=for-the-badge)](/)
-# [![Full Stack](https://img.shields.io/badge/-Full%20Stack-9C27B0?style=for-the-badge)](/)
-# 
-# [![Database Design](https://img.shields.io/badge/-Database%20Design-F44336?style=for-the-badge)](/)
-# [![Performance Optimization](https://img.shields.io/badge/-Performance%20Optimization-00BCD4?style=for-the-badge)](/)
-# [![Clean Code](https://img.shields.io/badge/-Clean%20Code-673AB7?style=for-the-badge)](/)
-# [![Team Leadership](https://img.shields.io/badge/-Team%20Leadership-3F51B5?style=for-the-badge)](/)
-# 
-# </div>
-# 
-# ---
-# 
-# ## 📈 Project Statistics
-# 
-# <div align="center">
-# 
-# ```
-# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-# ┃                                                        ┃
-# ┃  📊 30+         Professional Projects                 ┃
-# ┃  🌐 5+          Different Domains                     ┃
-# ┃  ⚡ 100%        Production-Ready Code                 ┃
-# ┃  👥 Multiple    Team Collaborations                   ┃
-# ┃  🎯 Enterprise  Scale Solutions                       ┃
-# ┃                                                        ┃
-# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-# ```
-# 
-# </div>
-# 
-# ---
-# 
-# ## 🚀 Core Principles
-# 
-# <table align="center">
-# <tr>
-# <td width="50%">
-# 
-# ### 🏗️ Architecture
-# - SOLID Principles
-# - Design Patterns
-# - Scalability First
-# - Maintainability Focus
-# 
-# </td>
-# <td width="50%">
-# 
-# ### ⚡ Performance
-# - Optimized Queries
-# - Efficient Algorithms
-# - Caching Strategies
-# - Load Balancing
-# 
-# </td>
-# </tr>
-# <tr>
-# <td width="50%">
-# 
-# ### 🔒 Security
-# - Best Practices
-# - Data Protection
-# - API Security
-# - Compliance
-# 
-# </td>
-# <td width="50%">
-# 
-# ### 📖 Quality
-# - Clean Code
-# - Documentation
-# - Code Reviews
-# - Testing
-# 
-# </td>
-# </tr>
-# </table>
-# 
-# ---
-# 
-# ## 💡 Specialty Domains
-# 
-# <div align="center">
-# 
-# ### 🏭 Enterprise Systems
-# Energy management platforms, municipal services, financial applications
-# 
-# ### 💼 Business Solutions
-# Admin dashboards, CRM systems, business intelligence platforms
-# 
-# ### 🌐 Web Applications
-# E-commerce platforms, corporate websites, regional portals
-# 
-# ### 🔌 API & Integration
-# RESTful services, microservices architecture, third-party integrations
-# 
-# </div>
-# 
-# ---
-# 
-# ## 🎓 Continuous Evolution
-# 
-# <div align="center">
-# 
-# Currently exploring & mastering:
-# 
-# ![Advanced .NET](https://img.shields.io/badge/Advanced%20.NET-512BD4?style=flat&logo=.net)
-# ![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-FF9900?style=flat&logo=amazonaws)
-# ![DevOps](https://img.shields.io/badge/DevOps-FCC624?style=flat&logo=kubernetes)
-# ![AI/ML Integration](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat&logo=python)
-# ![System Design](https://img.shields.io/badge/System%20Design-2196F3?style=flat)
-# 
-# </div>
-# 
-# ---
-# 
-# ## 🤝 Let's Connect
-# 
-# <div align="center">
-# 
-# ### Ready to Build Something Great?
-# 
-# I'm open to:
-# - 🚀 Challenging Enterprise Projects
-# - 👨‍💼 Architectural Consulting
-# - 🧑‍🏫 Team Leadership & Mentoring
-# - 🤝 Strategic Partnerships
-# 
-# ---
-# 
-# **Let's create extraordinary solutions together!**
-# 
-# [📂 View All Projects](https://github.com/amirkarami-dev?tab=repositories)
-# · 
-# [💼 Professional Portfolio](https://github.com/amirkarami-dev)
-# · 
-# [🌐 Connect with Me](https://github.com/amirkarami-dev)
-# 
-# </div>
-# 
-# ---
-# 
-# <div align="center">
-# 
-# [![Profile Views](https://komarev.com/ghpvc/?username=amirkarami-dev&style=flat-square&color=blue)](https://github.com/amirkarami-dev)
-# [![Last Updated](https://img.shields.io/badge/Last%20Updated-September%202026-informational?style=flat-square)](/)
-# 
-# **Building Robust, Scalable, Enterprise-Grade Solutions** 🚀
-# 
-# </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:06b6d4&text=Amir%20Karami&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20.NET%20%2F%20TypeScript%20%E2%80%A2%20Enterprise%20Applications&descAlignY=60&animation=fadeIn" width="100%" alt="Amir Karami profile banner" />
+
+<a href="https://github.com/amirkarami-dev?tab=followers"><img src="https://img.shields.io/github/followers/amirkarami-dev?label=Followers&style=for-the-badge&logo=github&color=2563eb" alt="GitHub followers" /></a>
+<a href="https://github.com/amirkarami-dev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-06b6d4?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
+<img src="https://komarev.com/ghpvc/?username=amirkarami-dev&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
+
+### Building reliable products from database to user interface.
+
+</div>
+
+## About me
+
+I am a **full-stack software engineer** focused on designing and delivering maintainable business applications. My repositories cover backend APIs, management portals, dashboards, migration tools, and modern web interfaces—primarily with **C#/.NET**, **TypeScript**, and **JavaScript**.
+
+- Building scalable APIs and business systems with **ASP.NET Core**
+- Creating responsive web experiences with **TypeScript** and modern frontend tooling
+- Working with relational data using **PostgreSQL** and **SQL Server**
+- Interested in clean architecture, performance, security, and practical product engineering
+- Open to collaboration on ambitious full-stack and enterprise projects
+
+## Technology toolkit
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cs,ts,js,html,css&theme=dark" alt="C Sharp, TypeScript, JavaScript, HTML and CSS" />
+
+### Frameworks & platforms
+
+<img src="https://skillicons.dev/icons?i=dotnet,react,vite,nodejs&theme=dark" alt=".NET, React, Vite and Node.js" />
+
+### Data, infrastructure & tools
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,githubactions,visualstudio,vscode&theme=dark" alt="PostgreSQL, Docker, Git, GitHub, GitHub Actions, Visual Studio and VS Code" />
+
+</div>
+
+## What I build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend & APIs
+
+- RESTful services and application APIs
+- Business workflows and domain logic
+- Authentication and authorization
+- Database design and migrations
+- Integrations and background services
+
+</td>
+<td width="50%" valign="top">
+
+### Web applications
+
+- Administrative and executive dashboards
+- Internal enterprise portals
+- Responsive customer-facing applications
+- Data-driven forms and reporting interfaces
+- Reusable frontend architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Architecture
+
+- Modular and clean application structure
+- Maintainable service boundaries
+- Performance-aware data access
+- Secure API design
+- Production-oriented engineering
+
+</td>
+<td width="50%" valign="top">
+
+### Product domains
+
+- Energy and utility platforms
+- Municipal and organizational services
+- CRM and management systems
+- Financial and operational tools
+- Corporate and commerce websites
+
+</td>
+</tr>
+</table>
+
+## Selected work
+
+| Project | Area | Primary technology |
+|---|---|---|
+| [CEO Portal](https://github.com/amirkarami-dev/ceo-portal) | Executive and management portal | TypeScript |
+| [Alborz Municipality Service](https://github.com/amirkarami-dev/alborz-mun-service) | Municipal service platform | Backend services |
+| [Japra Website](https://github.com/amirkarami-dev/japra-website) | Modern corporate web application | TypeScript |
+| [Kurdnezam](https://github.com/amirkarami-dev/kurdnezam) | Business web platform | TypeScript |
+| [Vahedbargh API 9](https://github.com/amirkarami-dev/vahedbargh-api-9) | Application API | C# / .NET |
+| [Vahedbargh Web](https://github.com/amirkarami-dev/vahedbargh-web) | Web application | TypeScript |
+
+> Some professional projects are maintained privately. Visit the repositories tab to explore currently available public work.
+
+## GitHub overview
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amirkarami-dev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=38bdf8&icon_color=2563eb&text_color=94a3b8" alt="Amir's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirkarami-dev&layout=compact&hide_border=true&theme=transparent&title_color=38bdf8&text_color=94a3b8&langs_count=8" alt="Most used languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amirkarami-dev&bg_color=00000000&color=38bdf8&line=2563eb&point=06b6d4&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph" />
+
+</div>
+
+## Engineering principles
+
+```text
+Clarity over cleverness  •  Maintainability over shortcuts
+Security by design       •  Measure before optimizing
+Small, reviewable changes •  Build for real user needs
+```
+
+## Current focus
+
+- Advancing modern **.NET** architecture and application performance
+- Improving frontend systems with strongly typed, component-based design
+- Strengthening automated delivery with containers and CI/CD
+- Exploring cloud-native patterns and responsible AI integrations
+
+<div align="center">
+
+## Let's build something valuable
+
+I am interested in meaningful products, enterprise systems, technical collaboration, and software architecture.
+
+<a href="https://github.com/amirkarami-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
+<a href="https://github.com/amirkarami-dev"><img src="https://img.shields.io/badge/Follow_On_GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+
+<br /><br />
+
+<sub>Designed with a focus on clarity, credibility, and modern presentation.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,55:2563eb,100:0f172a" width="100%" alt="Footer decoration" />
+
+</div>
